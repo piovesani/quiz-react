@@ -10,5 +10,15 @@ export const questions: Question[] = [
             "Açucar"
         ],
         answer: 1
-    }
+    },
+    {
+        question: "Qual o melhor método para cozinhar?",
+        options: [
+            "Microondas",
+            "Fogão",
+            "Fogueira",
+            "Lança-chamas"
+        ],
+        answer: 3
+    },
 ];
